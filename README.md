@@ -8,11 +8,12 @@ Este repositorio fue creado con un solo propósito: realizar aportes a proyectos
 
 Aquí encontrarás mis contribuciones a varios proyectos de la comunidad, así como algunos recursos útiles que espero puedan ser de ayuda para otros. Todo está hecho con la idea de aportar mi granito de arena al ecosistema de código abierto. 🌍
 
-¿Qué hago?
+🧰 ¿Qué hago?
 
 Ciberseguridad: Me encanta crear contenido relacionado con la seguridad informática, compartir mis conocimientos y aprender de otros.
 IRLs: De vez en cuando hago IRL sobre temas que me apasionan. ¡Nunca se sabe qué podría pasar!
-Streaming: Si te gusta ver contenido en vivo, de vez en cuando juego en streaming 🎮📡
+Streaming en Twitch, Kick y YouTube: Si te gusta ver contenido en vivo, de vez en cuando juego en streaming 🎮📡
+
 Puedes ver más sobre mí y mis streams en mi Linktree (https://www.linktr.ee/BySepa) 🌐.
 
 🎯 ¿Por qué este repositorio?
@@ -25,6 +26,7 @@ Si eres parte de la comunidad de código abierto, ya sea en ciberseguridad, desa
 
 Si tienes preguntas, comentarios o quieres ponerte en contacto, puedes encontrarme en las siguientes plataformas:
 
-Puedes encontrar todas mis redes en https://www.linktr.ee/BySepa
+🌐 Puedes encontrar todas mis redes en https://www.linktr.ee/BySepa
+📜 Obvio que tengo un blog: https://www.elblogdesepa.com.ar
 
 GitHub: Aquí, claro 😁
