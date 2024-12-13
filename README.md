@@ -1,4 +1,4 @@
-🚀 Contribuciones a la Comunidad: ¡Bienvenido a mi Repositorio! 🚀
+🚀 ¡Bienvenido a mi Repositorio! 🚀
 
 ¡Hola, soy Sepa! 👋🏼
 
@@ -12,9 +12,9 @@ Aquí encontrarás mis contribuciones a varios proyectos de la comunidad, así c
 
 * Ciberseguridad: Me encanta crear contenido relacionado con la seguridad informática, compartir mis conocimientos y aprender de otros.
 * IRLs: De vez en cuando hago IRL sobre temas que me apasionan. ¡Nunca se sabe qué podría pasar!
-* Streaming en Twitch, Kick y YouTube: Si te gusta ver contenido en vivo, de vez en cuando juego en streaming 🎮📡
+* Streaming en [Twitch](https://www.twitch.tv/BySepa), [Kick](https://www.kick.com/BySepa) y [YouTube](https://www.youtube.com/@bysepa): Si te gusta ver contenido en vivo, de vez en cuando juego en streaming 🎮📡
 
-Puedes ver más sobre mí y mis streams en mi Linktree (https://www.linktr.ee/BySepa) 🌐.
+Puedes ver más sobre mí y mis streams en mi [Linktree](https://www.linktr.ee/BySepa) 🌐.
 
 🎯 ¿Por qué este repositorio?
 
