@@ -26,8 +26,8 @@ Si eres parte de la comunidad de código abierto, ya sea en ciberseguridad, desa
 
 Si tienes preguntas, comentarios o quieres ponerte en contacto, puedes encontrarme en las siguientes plataformas:
 
-🌐 Puedes encontrar todas mis redes en https://www.linktr.ee/BySepa
+🌐 Puedes encontrar todas mis redes en [https://www.linktr.ee/BySepa](https://www.linktr.ee/BySepa)
 
-📜 Obvio que tengo un blog: https://www.elblogdesepa.com.ar
+📜 Mi sitio: [https://bysepa.net](https://bysepa.net)
 
 GitHub: Aquí, claro 😁
